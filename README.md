@@ -36,4 +36,4 @@ I am also a CTF player.</h3>
 <img src="https://img.shields.io/badge/-Github%20Actions-2088FF?style=for-the-badge&logo=Github-Actions&logoColor=white" />
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumukhchitloor" alt="sumukhchitloor" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumukhchitloor&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="sumukhchitloor's GitHub Stats" /></p>
